@@ -1,5 +1,3 @@
-#  Plik do wizualizacji wpływu cech wejściowych na predykcje cen akcji
-#  napisany przy użyciu modelu językowego ChatGPT na podstawie pliku main.py
 
 
 import os

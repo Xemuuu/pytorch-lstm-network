@@ -1,5 +1,3 @@
-#  Plik do wizualizacji wpływu ilości danych treningowych na predykcje cen akcji
-#  napisany przy użyciu modelu językowego ChatGPT na podstawie pliku main.py
 
 
 import os
